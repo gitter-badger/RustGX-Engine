@@ -5,11 +5,7 @@ Vulkan & Metal based Graphics Engine written in RUST for Redox OS!
   + Modular, Configurable and Robust
   + Engine and Tools are fully written in RUST
   + 
-  + Nodecode
-    + Node based Code Editor, written in Rust
-    + Layered View System
-    + Configure the Engine parts via a node based view
-    + When u double click on a node it opens the code view
+
 
 ## Support
   + RUST Language (Latest Stable Version)
@@ -30,8 +26,18 @@ Vulkan & Metal based Graphics Engine written in RUST for Redox OS!
   + & more new Features from this Century
 
 ## Tools
-  + NodeCode
+
+  + Nodecode
+    + Node based Code Editor, written in Rust
+    + Layered View System
+    + Configure the Engine parts via a node based view
+    + When u double click on a node it opens the code view
   + Dynamic Tesselation Terrain Tool
+  + Road & River Tool
+  + Daytime Tool
+  + Animation Recording Tool
+  + Physics Tool
+  + & more
 
 
 ## Minimum Hardware Requirements:
