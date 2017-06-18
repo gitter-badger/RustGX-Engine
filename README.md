@@ -1,13 +1,15 @@
 # RustGX-Engine
+
 Vulkan & Metal based Graphics Engine written in RUST for Redox OS!
-This Engine is Modular coded, via a tool called NodeCode!
-  + Modular
+  
+  + Modular, Configurable and Robust
+  + Engine and Tools are fully written in RUST
+  + 
   + Nodecode
     + Node based Code Editor, written in Rust
     + Layered View System
     + Configure the Engine parts via a node based view
     + When u double click on a node it opens the code view
-  +
 
 ## Support
   + RUST Language (Latest Stable Version)
@@ -26,6 +28,11 @@ This Engine is Modular coded, via a tool called NodeCode!
   + Physically based System / Rendering
   + Tesselation
   + & more new Features from this Century
+
+## Tools
+  + NodeCode
+  + Dynamic Tesselation Terrain Tool
+
 
 ## Minimum Hardware Requirements:
   + AMD FX 4100+
