@@ -1,11 +1,23 @@
 # RustGX-Engine
 Vulkan & Metal based Graphics Engine written in RUST for Redox OS!
+This Engine is Modular coded, via a tool called NodeCode!
+  + Modular
+  + Nodecode
+    + Node based Code Editor, written in Rust
+    + Layered View System
+    + Configure the Engine parts via a node based view
+    + When u double click on a node it opens the code view
+  +
 
 ## Support
   + RUST Language (Latest Stable Version)
   + Vulkan API
   + Metal API
-  + REDOX OS
+  + REDOX OS, with it comes support for these OS's:
+    + Android
+    + Linux
+    + MacOS, iOS
+    + Winodws & Mobile Version
 
 ## Engine Features
   + Voxel & Global Illumination
