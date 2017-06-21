@@ -1,5 +1,7 @@
 # RustGX-Engine
 
+[![Join the chat at https://gitter.im/RustGX-Engine/Lobby](https://badges.gitter.im/RustGX-Engine/Lobby.svg)](https://gitter.im/RustGX-Engine/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Vulkan & Metal based Graphics Engine written in RUST for Redox OS!
   
   + Modular, Configurable and Robust
